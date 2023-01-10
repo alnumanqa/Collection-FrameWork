@@ -15,6 +15,7 @@ public class Capacity {
 		arrayList.add(7);
 		arrayList.add(6);
 		arrayList.add(13);
+		arrayList.add(74);
 
 		// Note-once we occupied all 10 indexes it will automatically increase capacity
 		// --will be then 10+5=15
